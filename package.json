@@ -1,0 +1,35 @@
+{
+  "name": "googleplaces-promises",
+  "version": "1.0.0",
+  "description": "Module wrapping googleplaces to promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawerda/googleplaces-promises.git"
+  },
+  "keywords": [
+    "google",
+    "places",
+    "google places",
+    "promise",
+    "promises",
+    "pl"
+  ],
+  "author": {
+    "name": "Paweł Werda",
+    "email": "pawerda@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pawerda/googleplaces-promises/issues"
+  },
+  "homepage": "https://github.com/pawerda/googleplaces-promises",
+  "dependencies": {
+    "googleplaces": "^0.5.1",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3"
+  }
+}
